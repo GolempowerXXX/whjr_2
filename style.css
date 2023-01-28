@@ -1,0 +1,43 @@
+img{
+    height: 300px;
+    width: 300px;
+}
+img:hover{
+    border-radius: 100px;
+}
+#textbox{
+    height: 300px;
+    width: 300px;
+}
+body{
+    background-color: lightgray;
+}
+#first{
+    margin-right: 52px;
+    width: 500px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: goldenrod;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+#second{
+    width: 500px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: goldenrod;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+#third{
+    width: 500px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: goldenrod;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    background-color: lightblue;
+}
